@@ -10,7 +10,7 @@ https://youtu.be/ckV3ReiJ7og
 
 `Assets/Mine` 以下に置いてあるものが自分で用意したものです。
 
-## 初期設定
+## エディタでのテスト方法
 
 ※ プロジェクトの実行シーンは `HelloWorld` シーンです。
 
