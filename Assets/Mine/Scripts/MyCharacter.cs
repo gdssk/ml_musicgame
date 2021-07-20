@@ -70,7 +70,7 @@ namespace Mine
                     _animator.SetTrigger("skill01");
                     break;
                 case 2:
-                    _audio.PlayOneShot(beamClip);
+                    _audio.PlayOneShot(shotClip);
                     _animator.SetTrigger("skill02");
                     break;
             }
